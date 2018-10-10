@@ -10,6 +10,12 @@
   },
   "author": "D Marepalli",
   "license": "MIT",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "mongodb": "*"
+  },
   "devDependencies": {
     "nodemon": "^1.18.4"
   }
